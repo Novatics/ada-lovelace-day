@@ -4,7 +4,7 @@ This is a simple code to print a string celebrating Ada Lovelace's Day!!!!
 
 To run it follow these steps:
 
-1. Install GNAT: `sudo apt-get install gnat` 
+1. Install [GNAT](https://www.gnu.org/software/gnat/): `sudo apt-get install gnat` 
 2. Run the compiler: `gnatmake hello-ada.adb`
 3. Run the program: `./hello-ada`
 
