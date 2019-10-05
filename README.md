@@ -1,6 +1,6 @@
 # ada-lovelace-day
 
-This is a simple code to print a string celebrate Ada Lovelace's Day!!!!
+This is a simple code to print a string celebrating Ada Lovelace's Day!!!!
 
 To run it follow these steps:
 
