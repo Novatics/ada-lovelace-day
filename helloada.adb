@@ -1,5 +1,5 @@
 with Ada.Text_IO; use Ada.Text_IO;
-procedure Hello is
+procedure HelloAda is
 begin
    Put_Line ("Happy Ada Lovelace Day");
-end Hello;
+end HelloAda;
